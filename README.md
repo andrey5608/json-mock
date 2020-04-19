@@ -1,6 +1,10 @@
 # json-mock
+
+how to start:
+
+RUN in console: sh json-server db.json --routes routes.json
  
-get queries
+then try to get queries:
 
 http://localhost:3000/rbo-rest-server/user/organizations
 
