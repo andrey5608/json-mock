@@ -1,0 +1,5 @@
+{
+  "/rbo-rest-server/user/*": "/$1",
+  "/rbp-contract-service/contracts/*/*": "/$2",
+  "/rbp-contract-service/services/*": "/$1"
+}

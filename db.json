@@ -1,0 +1,9 @@
+{
+  "organizations": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "contracts": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "services": { "name": "typicode" }
+}
