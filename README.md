@@ -1,8 +1,10 @@
 # json-mock
 
 how to start:
-
-RUN in console: sh json-server db.json --routes routes.json
+- check that node js installed
+- run in console:
+ npm install -g json-server
+ sh json-server db.json --routes routes.json
  
 then try to get queries:
 
