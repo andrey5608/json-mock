@@ -3,6 +3,7 @@
 how to start:
 - check that node js installed
 - run in console:
+
  npm install -g json-server
  
  sh json-server db.json --routes routes.json
